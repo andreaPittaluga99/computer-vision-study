@@ -219,8 +219,8 @@ __marimo__/
 
 .vscode
 
-day5/clf-data/
-day6/data/
-day7/data/
-day7/face_landmarker.task
-day7/data.txt
+5_image_classifier/clf-data/
+6_image_classifier_feature_extraction/data/
+7_emotion_recognition/data/
+7_emotion_recognition/face_landmarker.task
+7_emotion_recognition/data.txt

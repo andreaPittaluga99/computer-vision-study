@@ -1,5 +1,8 @@
-# Computer-Vision-in-30-Days
+# computer-vision-study
 My first steps into Computer Vision
 
-Following the Learn Computer Vision in 30 Days playlist:
-https://www.youtube.com/playlist?list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd
+Notes and mini-projects exploring Computer Vision
+
+## Learning Resources:
+
+Learn Computer Vision in 30 Days: https://www.youtube.com/playlist?list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd
